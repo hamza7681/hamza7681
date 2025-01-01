@@ -3,8 +3,8 @@
 - 💞️ I’m looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/hamza7681" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923174929596</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">hamzaashfaq705@gmail.com</a>)
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923117110211</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">hamza.siddique@desolint.com</a>)
               }
 <h1>Connect with me </h1>
 
