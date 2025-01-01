@@ -11,7 +11,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
 </a>
 <span>
-  <a href="https://github.com/hamza7681" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
+  <a href="https://github.com/hamza7681" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=ffffff" width="5%" height="5%"></a></span>
+</span>
+<span>
+  <a href="https://medium.com/@hamza7681" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=ffffff" width="5%" height="5%"></a></span>
 </span>
 
 
