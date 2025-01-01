@@ -1,16 +1,31 @@
-## Hi there 👋
+- 👋 Hi,,, I’m  hamza aahfaq
+- 🌱 I’m currently working Javascript  diffrent frameworks and libraries
+- 💞️ I’m looking to collaborate on IT 
+- ☕ <a href="https://www.buymeacoffee.com/hamza7681" target="_blank">Buy me Coffee</a>
+- 📫 How to reach me: { <br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923174929596</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">hamzaashfaq705@gmail.com</a>)
+              }
+<h1>Connect with me </h1>
 
-<!--
-**hamza7681/hamza7681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/hamza--siddique/" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
+</a>
+<span>
+  <a href="https://github.com/hamza7681" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
+</span>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Languages </h1>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,react,nodejs,vue,express,mongodb"/>
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamza7681)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza7681)](https://github.com/hamza7681/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamza7681)](https://git.io/streak-stats)
+<br>
