@@ -1,7 +1,6 @@
-- 👋 Hi,,, I’m  hamza aahfaq
-- 🌱 I’m currently working Javascript  diffrent frameworks and libraries
+- 👋 Hi,,, I’m  Hamza Siddique
+- 🌱 I’m currently working Javascript diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
-- ☕ <a href="https://www.buymeacoffee.com/hamza7681" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923117110211</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">hamza.siddique@desolint.com</a>)
@@ -17,7 +16,7 @@
 
 
 <h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,react,nodejs,vue,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,expressjs,nestjs,graphql,mongodb,sequelize,docker,aws,tailwind,angular,bootstrap,firebase,materialui,mysql,vercel,heroku"/>
 <br>
 
 
@@ -27,5 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza7681)](https://github.com/hamza7681/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamza7681)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamza7681&theme=dark)](https://git.io/streak-stats)
 <br>
