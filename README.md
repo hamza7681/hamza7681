@@ -1,7 +1,7 @@
-- 👋 Hi,,, I’m  Hamza Siddique
-- 🌱 I’m currently working Javascript diffrent frameworks and libraries
-- 💞️ I’m looking to collaborate on IT 
-- 📫 How to reach me: { <br/>
+👋  I'm Hamza Siddique, a seasoned Full Stack Developer whose professional odyssey commenced in 2019, but truly soared from December 2021 onwards. With an insatiable curiosity for technology and a penchant for problem-solving, I've honed my skills in the intricate landscape of MERN Stack development. Currently stationed at Desol Int. Lahore, I bring a wealth of experience and a tireless work ethic to the table, collaborating with a talented team to engineer innovative solutions that redefine industry standards. My journey is fueled by a relentless pursuit of excellence and a commitment to staying at the forefront of technological evolution.
+
+
+📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923117110211">+923117110211</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza.siddique@desolint.com">hamza.siddique@desolint.com</a>)
               }
