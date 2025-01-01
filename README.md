@@ -16,7 +16,7 @@
 
 
 <h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nodejs,expressjs,nestjs,graphql,mongodb,sequelize,docker,aws,tailwind,angular,bootstrap,firebase,materialui,mysql,vercel,heroku"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,nodejs,expressjs,nestjs,graphql,mongodb,sequelize,docker,aws,tailwind,angular,bootstrap,firebase,materialui,mysql,vercel,heroku,netlify"/>
 <br>
 
 
