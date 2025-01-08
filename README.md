@@ -50,13 +50,6 @@ I am proficient in the following technologies:
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=hamza7681&theme=gruvbox&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📊 **GitHub Stats**  
-
-- **Top Languages**:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza7681&layout=compact&theme=dark&langs_count=10)  
-
 - **GitHub Streak**:  
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamza7681&theme=dark&border_radius=5)
 
