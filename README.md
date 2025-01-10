@@ -15,7 +15,7 @@ Hello! I'm **Hamza Siddique**, a passionate Full Stack Developer specializing in
 
 ## 🌐 **Connect with Me**  
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/hamza--siddique/) [![GitHub](https://img.icons8.com/nolan/48/github.png)](https://github.com/hamza7681) [![Medium](https://img.icons8.com/?id=XVNvUWCvvlD9&format=png&color=ffffff)](https://medium.com/@hamza7681)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/hamza--siddique/) [![Medium](https://img.icons8.com/?id=XVNvUWCvvlD9&format=png&color=ffffff)](https://medium.com/@hamza7681)
 
 ---
 
@@ -49,9 +49,6 @@ I am proficient in the following technologies:
 ## 🏆 **Achievements**  
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=hamza7681&theme=gruvbox&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-- **GitHub Streak**:  
-![GitHub Streak](https://streak-stats.demolab.com?user=hamza7681&theme=dark&border_radius=5)
 
 ---
 
