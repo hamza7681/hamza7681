@@ -56,10 +56,6 @@ I am proficient in the following technologies:
 
 - **Top Languages**:  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza7681&layout=compact&theme=dark&langs_count=10)  
-
-## GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=hamza7681&theme=dark&border_radius=5&cache_seconds=86400)
-
 ---
 
 Feel free to reach out or connect! Let's create something extraordinary together! 🚀
