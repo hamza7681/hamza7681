@@ -52,4 +52,14 @@ I am proficient in the following technologies:
 
 ---
 
+## 📊 **GitHub Stats**  
+
+- **Top Languages**:  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabeer-dev&layout=compact&theme=dark&langs_count=10)  
+
+## GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com?user=kabeer-dev&theme=dark&border_radius=5&cache_seconds=86400)
+
+---
+
 Feel free to reach out or connect! Let's create something extraordinary together! 🚀
